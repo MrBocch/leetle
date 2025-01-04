@@ -12,3 +12,5 @@ def solve(nums):
       max_num = n
 
   return max_num
+
+# felt so fat after looking at the solutions lol, i prefer ruby or python
