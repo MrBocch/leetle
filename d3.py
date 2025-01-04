@@ -14,3 +14,7 @@ def solve(nums):
   return max_num
 
 # felt so fat after looking at the solutions lol, i prefer ruby or python
+
+# look at the power of ruby
+# def solve(nums)
+#   return nums.tally.sort.last.first
