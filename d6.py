@@ -17,4 +17,5 @@ def solve(nums):
 # first 3 attempts i was trying
 # to solve it thinking, ohh, just return the max of all the list permutations sums
 # not realising permutations does not mean, [1,2,3] -> [1,2] and [2,3] and [1,2,3]
-# last chance i look at line 4, 'should it be -2 or -1?'
+# last chance i look at line 4, 'should it be -2 or -1?' i guessed wrong
+# should have not left if for chance
