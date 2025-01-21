@@ -18,3 +18,8 @@ def solve(head):
     curr = next
 
   return curr
+# this is honestly so emberassing,
+# i have how much time programing, and i cant even reverse a linked list,
+# what have I been doing?
+#
+# Its a good thing i find out here and not in a interview
